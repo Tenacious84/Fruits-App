@@ -1,0 +1,10 @@
+.container div{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+}
+
+.container button{
+    margin: 20px;
+}
